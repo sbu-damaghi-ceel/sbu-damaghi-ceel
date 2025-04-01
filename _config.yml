@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "CEEL" # the website title (if blank, full name will be used instead)
+title: "CEEL: Cancer Ecology & Evolution Lab" # the website title (if blank, full name will be used instead)
 first_name: "CEEL"
 middle_name: ":"
 last_name: "Cancer Ecology & Evolution Lab"
@@ -190,6 +190,7 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/teaching.md
+  - _pages/blog.md
   - purgecss.config.js
   - README.md
   - readme_preview/
