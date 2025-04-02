@@ -84,7 +84,7 @@ profiles:
   # Rotation student
   - align: left
     image:
-    content: about_rotation_student.md
+    content: about_rotation_students.md
     image_circular: false # crops the image to make it circular
 
   # Alumni
