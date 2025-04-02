@@ -28,7 +28,7 @@ announcements:
 ---
 
 <p align="center">
-  <img src="/assets/img/ceel_logo.png" alt="Logo" width="2000">
+  <img src="/assets/img/ceel_logo.png" alt="Logo" width="500">
 </p>
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
