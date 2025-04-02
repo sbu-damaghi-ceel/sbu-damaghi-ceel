@@ -1,26 +1,18 @@
 ## **Mehdi Damaghi ‌(مهدی دمقی), PhD**
 
-### Education
+### Education and Positions
 
-| Institution and Location                         | Degree | Years      | Field of Study                                |
+| Institution and Location                         | Degree/Position | Years      | Field of Study                                |
 |--------------------------------------------------|--------|------------|-----------------------------------------------|
 | Chamran University, Ahvaz, Iran                  | BSc    | 1998–2002  | Cell & Molecular Biology, Genetics            |
 | Tarbiat Modares University, Tehran, Iran         | MSc    | 2002–2005  | Biochemistry                                  |
 | Max Planck Institute, Dresden, Germany           | PhD    | 2008–2012  | Cell Biology and Genetics                     |
-
-<br>
-
-### Previous and Current Appointments
-
-**2012–2017:** Postdoctoral Fellow, Department of Cancer Imaging and Metabolism, Moffitt Cancer Center, Tampa, FL  
-
-**2017–2021:** Research Scientist, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
-
-**2021:** Instructor, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
-
-**2018–2021:** Assistant Professor, Department of Oncological Sciences, University of South Florida, Tampa, FL  
-
-**2021–present:** Assistant Professor, Department of Pathology, Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook University, New York
+|--------------------------------------------------|--------|------------|-----------------------------------------------|
+| Department of Cancer Imaging and Metabolism, Moffitt Cancer Center, Tampa, FL           | Postdoctoral Fellow    | 2012–2017  | Cancer Biology                    |
+| Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL           | Research Scientist    | 2017–2021  | Cancer Biology                     |
+| Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL           | Instructor    | 2021  | Cancer Biology                     |
+| Department of Oncological Sciences, University of South Florida, Tampa, FL           | Assistant Professor    | 2018–2021  | Cancer Biology                     |
+| Department of Pathology, Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook University, New York          | Assistant Professor    | 2021-  | Cancer Biology                     |
 
 ### Awards
 
