@@ -1,4 +1,4 @@
-# Alumni
+## **Alumni**
 
 | Name | Position | Current Position |
 | ------------- | ------------- | ------------- |
