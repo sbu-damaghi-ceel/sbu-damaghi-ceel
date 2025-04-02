@@ -80,6 +80,11 @@ profiles:
     #   <p>Mehdi Damaghi, PhD</p>
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
+  # Alumni
+  - align: left
+    image:
+    content: about_alumni.md
+    image_circular: false # crops the image to make it circular
   
 
 ---
