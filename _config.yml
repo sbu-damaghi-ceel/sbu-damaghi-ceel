@@ -201,10 +201,12 @@ exclude:
   - _pages/about_undergrad.md
   - _pages/about_researchers.md
   - _pages/about_pi.md
+  - _pages/about_rotation_students.md
   - _pages/teaching.md
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/blog.md
+  - _pages/cv.md
   - purgecss.config.js
   - README.md
   - readme_preview/
