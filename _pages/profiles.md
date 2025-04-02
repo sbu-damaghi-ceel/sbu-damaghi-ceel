@@ -18,8 +18,8 @@ profiles:
     content: about_mehdi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><strong>Mehdi Damaghi, PhD</strong></p>
-      <p><strong>Department of Pathology</strong></p>
+      <p>Mehdi Damaghi, PhD</p>
+      <p>Department of Pathology</p>
       <p>Assistant Professor</p>
       <p>Stony Brook Cancer Center</p>
   # PhD students
@@ -27,65 +27,70 @@ profiles:
     image:
     content: about_phd_students.md
     image_circular: false # crops the image to make it circular
+
   - align: left
     image:
     content: about_jowana.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
   - align: left
     image:
     content: about_joon.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
   - align: left
     image:
     content: about_yujie.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
   - align: left
     image:
     content: about_naheel.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
+  - align: left
+    image:
+    content: about_zhiyi.md
+    image_circular: false # crops the image to make it circular
+
   # Researchers
   - align: left
     image:
     content: about_researchers.md
     image_circular: false # crops the image to make it circular
+
   - align: left
     image:
     content: about_raafat.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
   - align: left
     image:
     content: about_karla.md
     image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>Mehdi Damaghi, PhD</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+
+  # Master's student
+  - align: left
+    image:
+    content: about_ms_students.md
+    image_circular: false # crops the image to make it circular
+
+  # Undergraduate student
+  - align: left
+    image:
+    content: about_undergrad.md
+    image_circular: false # crops the image to make it circular
+
+  # Rotation student
+  - align: left
+    image:
+    content: about_rotation_student.md
+    image_circular: false # crops the image to make it circular
+
   # Alumni
   - align: left
     image:
     content: about_alumni.md
     image_circular: false # crops the image to make it circular
-  
-
 ---
 
