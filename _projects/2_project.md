@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Project 2: Metabolic phenotypes present in DCIS to stratify Disease progression and upstaging"
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: 
+img: 
 importance: 2
 category: Research
-giscus_comments: true
+#related_publications: true
 ---
 
 ### Project 2: Metabolic Phenotypes in DCIS for Disease Progression and Upstaging Stratification

@@ -5,6 +5,7 @@ description:
 img:
 importance: 4
 category: Research
+#related_publications: true
 ---
 
 ### Project 4: Evolution of Resistance Phenotypes to PARPi in Ovarian Cancer: Genotypic Heterogeneity vs. Phenotypic Plasticity

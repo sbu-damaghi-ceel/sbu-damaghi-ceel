@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Project 3: Co-evolution of tumor and stroma in breast cancer"
-description: a project that redirects to another website
-img: assets/img/7.jpg
+description: 
+img: 
 importance: 3
 category: Research
+#related_publications: true
 ---
 
 ### Project 3: Co-evolution of Tumor and Stroma in Breast Cancer

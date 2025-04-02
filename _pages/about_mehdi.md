@@ -10,11 +10,11 @@
 
 ### Previous and Current Appointments
 
-- **2012–2017:** Postdoctoral Fellow, Department of Cancer Imaging and Metabolism, Moffitt Cancer Center, Tampa, FL  
-- **2017–2021:** Research Scientist, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
-- **2021:** Instructor, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
-- **2018–2021:** Assistant Professor, Department of Oncological Sciences, University of South Florida, Tampa, FL  
-- **2021–present:** Assistant Professor, Department of Pathology, Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook University, New York
+  - **2012–2017:** Postdoctoral Fellow, Department of Cancer Imaging and Metabolism, Moffitt Cancer Center, Tampa, FL  
+  - **2017–2021:** Research Scientist, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
+  - **2021:** Instructor, Department of Cancer Physiology, Moffitt Cancer Center, Tampa, FL  
+  - **2018–2021:** Assistant Professor, Department of Oncological Sciences, University of South Florida, Tampa, FL  
+  - **2021–present:** Assistant Professor, Department of Pathology, Stony Brook Cancer Center, Stony Brook Medicine, Stony Brook University, New York
 
 ### Awards
 
