@@ -386,12 +386,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2-metabolic-phenotypes-present-in-dcis-to-stratify-disease-progression-and-upstaging",
           title: 'Project 2: Metabolic phenotypes present in DCIS to stratify Disease progression and upstaging...',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-co-evolution-of-tumor-and-stroma-in-breast-cancer",
           title: 'Project 3: Co-evolution of tumor and stroma in breast cancer',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4-evolution-of-resistant-phenotype-to-parpi-in-ovarian-cancer-genotypic-heterogeneity-vs-phenotypic-plasticity",
