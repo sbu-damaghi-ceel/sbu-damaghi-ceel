@@ -18,7 +18,10 @@ profiles:
     content: about_mehdi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Mehdi Damaghi, PhD</p>
+      <p><strong>Mehdi Damaghi, PhD</strong></p>
+      <p><strong>Department of Pathology</strong></p>
+      <p>Assistant Professor</p>
+      <p>Stony Brook Cancer Center</p>
   # PhD students
   - align: left
     image:
