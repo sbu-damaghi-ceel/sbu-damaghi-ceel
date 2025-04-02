@@ -190,7 +190,17 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/about_mehdi.md
+  - _pages/about_jowana.md
+  - _pages/about_joon.md
+  - _pages/about_raafat.md
+  - _pages/about_yujie.md
+  - _pages/about_naheel.md
+  - _pages/about_karla.md
   - _pages/about_phd_students.md
+  - _pages/about_ms_students.md
+  - _pages/about_undergrad.md
+  - _pages/about_researchers.md
+  - _pages/about_pi.md
   - _pages/teaching.md
   - _pages/repositories.md
   - _pages/dropdown.md
