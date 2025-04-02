@@ -31,8 +31,8 @@ announcements:
   <img src="/assets/img/ceel_logo.png" alt="Logo" width="500">
 </p>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Evolution of Metabolic Phenotypes in Variable Tumor Microenvironments
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The primary aim of my laboratory is to apply ecological and evolutionary principles to elucidate the molecular mechanisms driving the initiation, progression, and metastasis of breast and ovarian cancers through adaptation to their microenvironments. I hypothesize that the evolution of novel metabolic phenotypes under variable microenvironmental selection pressures can promote cancer development via metabolic reprogramming—linked to epigenetic modifications as well as the activation and stabilization of transcription factors.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research focuses on how tumor adaptation remodels the microenvironment and metabolism, creating new selective pressures. This dynamic interplay between tumor cells and their surrounding stroma is fundamental to the development of a constantly evolving tumor ecosystem, which in turn leads to increased genotypic heterogeneity and phenotypic plasticity. To capture this complexity, we integrate single-cell analyses across the genome, epigenome, transcriptome, proteome, metabolome, and pathomics.
