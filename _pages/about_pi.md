@@ -1,2 +1,2 @@
-# Principal Investigatior: Sha Han Sha of the lab
+# Principal Investigatior
 
