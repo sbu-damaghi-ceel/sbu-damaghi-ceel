@@ -1,9 +1,22 @@
-# PhD Students
+# Alumni
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+| Name | Position | Current Position |
+| ------------- | ------------- | ------------- |
+| Fatim Kouassi | Master student  | CSHL |
+| Julia Gattozzi | PhD Rotation student  | |
+| Monica Alexander | PhD Rotation student  | |
+| Yijie Kang  | PhD Rotation student  | |
+| Andrew Cheng | PhD Rotation student  | |
+| Luiz Alberti | PhD Rotation student  | |
+| Liam Shanley | PhD Rotation student  | | 
+| Scott Feltman | PhD Rotation student  | |
+| Grace Han | MD student  | |
+| Jabin Gong | MD student  | |
+| Andrew Chen | Undergraduate student | |
+| Andrew Young | Undergraduate student  | |
+| Emmanuel Woods | Undergraduate student  | |
+| Katy (Yuzhu) Chen | Undergraduate student  | |
+| Ghaleb Jubi | Undergraduate student  | |
+| Ozge Somuncu, Ph.D. | Post Doc  | |
+| Khadijeh Karbalaei, Ph.D.  | Post Doc  | |
+| Manal Elmasry, Ph.D.  | Post Doc  | |
