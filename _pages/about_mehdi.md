@@ -1,6 +1,8 @@
 # Mehdi Damaghi ‌(مهدی دمقی), PhD
 
-# Research Interests: Evolution of Metabolic Phenotypes in Variable Tumor Microenvironments
+# Research Interests: 
+
+## Evolution of Metabolic Phenotypes in Variable Tumor Microenvironments
 
 The primary aim of my laboratory is to apply ecological and evolutionary principles to elucidate the molecular mechanisms driving the initiation, progression, and metastasis of breast and ovarian cancers through adaptation to their microenvironments. I hypothesize that the evolution of novel metabolic phenotypes under variable microenvironmental selection pressures can promote cancer development via metabolic reprogramming—linked to epigenetic modifications as well as the activation and stabilization of transcription factors.
 
